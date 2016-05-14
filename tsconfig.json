@@ -24,6 +24,10 @@
   },
   "files": [
     "./dev/app.component.ts",
-    "./dev/boot.ts"
+    "./dev/boot.ts",
+    "./dev/list-item.ts",
+    "./dev/shopping-list/shopping-list-item.component.ts",
+    "./dev/shopping-list/shopping-list.component.ts",
+    "./dev/shopping-list/shopping-new-item.component.ts"
   ]
 }

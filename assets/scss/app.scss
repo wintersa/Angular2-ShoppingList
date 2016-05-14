@@ -1,6 +1,41 @@
 body {
-  padding: 32px;
-  margin: 32px;
+  padding: 0;
+  margin: 0;
   font-family: "Roboto", Arial, sans-serif;
   font-size: 16px;
+}
+
+.main {
+  width: $width;
+  margin: 32px auto;
+  padding: 16px;
+  border: 1px solid #ddd;
+  background-color: #eee;
+}
+
+header .brand {
+  width: $width;
+  margin: 32px auto;
+  color: white;
+  background-color: blue;
+  font-weight: bold;
+  font-size: 22px;
+}
+
+.input {
+  margin-bottom: 8px;
+  display: inline-block;
+}
+
+.input input,
+.input label {
+  font-size: inherit;
+  display: block;
+}
+
+.button {
+  font-size: inherit;
+  background-color: white;
+  border: 1px solid #ccc;
+  border-radius: 4px;
 }
