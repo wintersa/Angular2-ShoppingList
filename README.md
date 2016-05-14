@@ -30,4 +30,8 @@ But it works with fine with gulp and other stuff I use in the project.
             <li>Adding items to the list</li>
             <li>Editing & Deleting Items</li>
         </ul>
+    <li>Fourth Project - Shopping List 2.0</li>
+        <ul>
+            <li>not yes accomplished</li>
+        </ul>    
 </ul>
