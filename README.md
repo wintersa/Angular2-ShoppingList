@@ -31,7 +31,5 @@ But it works with fine with gulp and other stuff I use in the project.
             <li>Editing & Deleting Items</li>
         </ul>
     <li>Fourth Project - Shopping List 2.0</li>
-        <ul>
-            <li>not yes accomplished</li>
-        </ul>    
+    <li>Fifth Project - Shopping List 3.0</li>
 </ul>
