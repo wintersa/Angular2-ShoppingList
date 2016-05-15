@@ -26,8 +26,10 @@
     "./dev/app.component.ts",
     "./dev/boot.ts",
     "./dev/list-item.ts",
+    "./dev/shopping-list/mock-shopping-list.ts",
     "./dev/shopping-list/shopping-list-item.component.ts",
     "./dev/shopping-list/shopping-list.component.ts",
+    "./dev/shopping-list/shopping-list.service.ts",
     "./dev/shopping-list/shopping-new-item.component.ts"
   ]
 }
