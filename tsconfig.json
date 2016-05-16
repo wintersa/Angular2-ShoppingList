@@ -25,6 +25,7 @@
   "files": [
     "./dev/app.component.ts",
     "./dev/boot.ts",
+    "./dev/filter.pipe.ts",
     "./dev/list-item.ts",
     "./dev/shopping-list/mock-shopping-list.ts",
     "./dev/shopping-list/shopping-list-item.component.ts",
