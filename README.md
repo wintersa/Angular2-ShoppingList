@@ -25,11 +25,12 @@ But it works with fine with gulp and other stuff I use in the project.
         <li>ngSwitch</li>
     </ul>
     <li>Custom Structural Directive</li>
-    <li>Third Project - Shopping List 1.0</li>
+    <li>3rd Project - Shopping List 1.0</li>
         <ul>
             <li>Adding items to the list</li>
             <li>Editing & Deleting Items</li>
         </ul>
-    <li>Fourth Project - Shopping List 2.0</li>
-    <li>Fifth Project - Shopping List 3.0</li>
+    <li>4th Project - Shopping List 2.0</li>
+    <li>5th Project - Shopping List 3.0</li>
+    <li>6th Project - Shopping List 4.0</li>
 </ul>
